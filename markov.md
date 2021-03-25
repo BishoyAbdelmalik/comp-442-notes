@@ -15,3 +15,9 @@
   - Also known as markov chain is a tuple of (S,P) on state space S and transition function P.
     <img src="https://becomesentient.com/wp-content/uploads/2021/02/4-1.png"/> 
   - so you basically have the states and the edges of the graph having weight that represent the probability. 
+  - ## Markov Reward Process
+    - its a markov process with value judgment, saying how much reward accumulated through some particular sequence that we sampled.
+    - An MRP is a tuple (S, P, R, 𝛾) where *S* is a finite state space, *P* is the state transition probability function, *R* is a reward function where, <strong><em>R</em></strong><em><sub>s</sub></em> = 𝔼[<strong><em>R</em></strong><em><sub>t+1</sub></em> | <strong><em>S</em></strong><em><sub>t</sub></em> = <em>S</em>],
+    - 
+
+
