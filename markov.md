@@ -8,12 +8,12 @@
   - In mathematical terms, a state St has the Markov property, if and only if;
   > P[S<sub>t+1</sub> | S<sub>t</sub>] = P[S<sub>t+1</sub> | S<sub>1</sub>, ….. , S<sub>t</sub>]
   - transitions can go in matrix like below
-    <img src="https://becomesentient.com/wp-content/uploads/2021/02/3-1.png"/>
+    <br><img src="https://becomesentient.com/wp-content/uploads/2021/02/3-1.png"/>
 
 - ## Markov Process
   - Its a squence of states that has the markov property. 
   - Also known as markov chain is a tuple of (S,P) on state space S and transition function P.
-    <br><img src="https://becomesentient.com/wp-content/uploads/2021/02/4-1.png"/> 
+    <img src="https://becomesentient.com/wp-content/uploads/2021/02/4-1.png"/> 
   - so you basically have the states and the edges of the graph having weight that represent the probability. 
   - ## Markov Reward Process
     - its a markov process with value judgment, saying how much reward accumulated through some particular sequence that we sampled.
