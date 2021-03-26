@@ -1,4 +1,4 @@
-# Markov Decision Processes [source](https%3A%2F%2Fbecomesentient.com%2Fmarkove-decision-processes%2F)
+# Markov Decision Processes [source](https://becomesentient.com/markove-decision-processes/)
 
 - ## Markov Property
   - states that,
